@@ -1,3 +1,5 @@
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.nikunj1312/AppiumPinchZoom/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/io.github.nikunj1312/AppiumPinchZoom)
+
 # AppiumPinchZoom
 This will help to perform Zoom In and Zoom Out operations on elements for automation testing mobile applications using Appium
 

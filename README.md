@@ -15,3 +15,12 @@ Point p = img.getcenter(); //img is the mobile element for image</br>
 driver.perform(PinchZoom.zoomIn(p));</br>
 OR</br>
 driver.perform(PinchZoom.zoomOut(p));</br>
+
+For Scroll:
+driver.perform(ScrollAction.verticalScrollDown(p));
+
+There are four methods for scroll:
+verticalScrollDown(Point p);
+verticalScrollUp(Point p);
+horizontalScrollRight(Point p);
+horizontalScrollLeft(Point p);
